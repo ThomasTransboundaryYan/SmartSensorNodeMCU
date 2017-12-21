@@ -78,7 +78,7 @@ void setup() {
 
   Serial.begin(9600);
   setup_wifi();//自动连WIFI接入网络
-  client.setServer(mqtt_server, 1883);//1883为端口号
+  client.setServer(mqtt_server_ip, 1883);//1883为端口号
   client.setCallback(callback); //用于接收服务器接收的数据
 }
 
