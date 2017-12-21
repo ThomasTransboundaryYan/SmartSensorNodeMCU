@@ -1,2 +1,2 @@
 # SmartSensorNodeMCU
-This is the framework of NodeMCU 
+This is the framework of NodeMCU/ESP8266.
