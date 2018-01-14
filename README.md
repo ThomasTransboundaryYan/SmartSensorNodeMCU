@@ -11,7 +11,7 @@ README中文版：[README中文版](README_CN.md)
 
 ## V1
 
-V1 is no longer maintained. Please look at V2!
+V1 was no longer maintained. Please look at V2!
 
 ## V2
 
