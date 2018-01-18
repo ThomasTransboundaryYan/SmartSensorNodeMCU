@@ -1,3 +1,6 @@
+// Arduino IDE ----- 1.8.5
+// System ---------- Windows 10
+
 #include <ESP8266WiFi.h>
 #include <PubSubClient.h>
 

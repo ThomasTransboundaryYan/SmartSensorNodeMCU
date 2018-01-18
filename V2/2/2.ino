@@ -1,4 +1,5 @@
-// Arduino IDE 1.8.5
+// Arduino IDE ----- 1.8.5
+// System ---------- Windows 10
 
 #include <ArduinoJson.h>
 #include <ESP8266WiFi.h>
