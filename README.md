@@ -16,3 +16,7 @@ V1 was no longer maintained. Please look at V2!
 ## V2
 
 V2 is maintained, welcome PR!
+
+## License
+---
+MIT © [Thomasyan](https://github.com/ThomasTransboundaryYan)
