@@ -16,3 +16,7 @@ V1 不再维护，请查看 V2！
 ## V2
 
 V2 正在维护，欢迎PR！
+
+## 证书
+---
+MIT © [Thomasyan](https://github.com/ThomasTransboundaryYan)
